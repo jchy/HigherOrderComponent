@@ -1,6 +1,6 @@
 import "./styles.css";
-import SearchTodos, { TodoList } from "./TodoList";
-import SearchUsers from "./UserList";
+import SearchTodos, { TodoList } from "./Components/TodoList";
+import SearchUsers from "./Components/UserList";
 
 export default function App() {
   return (
